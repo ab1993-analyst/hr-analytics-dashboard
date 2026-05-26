@@ -1,1 +1,63 @@
-# hr-analytics-dashboard
+# 👥 HR Analytics Dashboard: Employee Attrition & Performance Analysis
+
+## 🎯 Business Problem
+
+The HR department wants to understand why employees leave and how salary and performance affect retention.
+
+## 🛠️ Tools Used
+
+- SQL (Data Analysis)
+-  Google Sheets
+- Tableau 
+- Data Visualization
+
+## 📂 Dataset
+
+- HR employee dataset from Kaggle
+- Includes:
+  - Employee ID
+  - Department
+  - Salary
+  - Attrition
+  - Performance Rating
+
+## 🧹 Data Preparation
+
+- Cleaned missing values
+- Standardized salary fields
+- Created attrition categories
+- Grouped salary bands
+‘’’sql
+SELECT attrition, COUNT(*) 
+FROM employees
+GROUP BY attrition;
+‘’’
+## 🔍 Key Insights
+
+- Employees with lower salary leave more
+- Certain departments have higher attrition
+- Performance is linked to salary
+
+## 📈 Business Impact
+
+- Helps reduce employee turnover
+- Improves salary structure decisions
+- Supports HR decision-making
+
+
+## 📌 Recommendations
+
+- Improve salary in high-attrition departments
+- Introduce retention programs
+- Offer performance incentives
+
+## 📊 Dashboard
+
+![HR Dashboard](hr-dashboard.png)
+
+## 👤 Author
+
+**Ahmed Basheer**  
+Aspiring Data Analyst  
+
+SQL | Google Sheets | Tableau | 

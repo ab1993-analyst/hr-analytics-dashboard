@@ -53,7 +53,7 @@ GROUP BY attrition;
 
 ## 📊 Dashboard
 
-![HR Dashboard](hr-dashboard.png)
+![HR Dashboard](hr-dashboard.PNG)
 
 ## 👤 Author
 

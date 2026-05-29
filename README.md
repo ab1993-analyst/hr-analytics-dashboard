@@ -60,4 +60,11 @@ GROUP BY attrition;
 **Ahmed Basheer**  
 Aspiring Data Analyst  
 
-SQL | Google Sheets | Tableau | 
+📊 Skills:  
+SQL | Google Sheets | Data Visualization | Data Analysis | Tableau |
+
+📫 Contact:  
+Email: ab11999333@gmail.com  
+LinkedIn: http://linkedin.com/in/ahmed-basheer93
+GitHub Portfolio: https://ab1993-analyst.github.io/#portfolio
+ 

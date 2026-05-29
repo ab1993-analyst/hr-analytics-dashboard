@@ -2,7 +2,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=SQL&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/GoogleSheets-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Tableau](https://img.shields.io/badge/ggplot2-Data%20Visualization-blue?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
 ---

@@ -7,6 +7,10 @@
 
 ---
 
+# 📊 Project Overview
+
+This HR Analytics Dashboard project provides interactive insights into employee attrition, workforce demographics, job satisfaction, and performance metrics. The dashboard helps HR teams analyze key factors influencing employee turnover, monitor workforce trends, and support data-driven decision-making for improving employee retention, engagement, and organizational performance.
+
 ## 🎯 Business Problem
 
 The HR department wants to understand why employees leave and how salary and performance affect retention.
